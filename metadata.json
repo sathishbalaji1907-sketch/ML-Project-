@@ -1,0 +1,6 @@
+{
+  "name": "Climate Twin AI - Digital Twin & Disaster Engine",
+  "description": "A full-stack AI-powered Digital Twin of climate conditions with real-time IoT sensor telemetry, multi-hazard ML forecasts, explainable AI, what-if simulations, GIS maps, carbon footprint tracking, and Gemini AI decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
